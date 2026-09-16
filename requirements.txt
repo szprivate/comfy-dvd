@@ -6,3 +6,5 @@ einops
 sentencepiece
 matplotlib
 imageio[ffmpeg]
+modelscope
+pandas
