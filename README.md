@@ -34,7 +34,7 @@ Search for `comfy-dvd` in ComfyUI Manager and install.
 1. Clone into your ComfyUI custom nodes folder:
 ```bash
 cd ComfyUI/custom_nodes
-git clone --recursive https://github.com/spiritform/comfy-dvd.git ComfyUI-DVD-Depth
+git clone https://github.com/spiritform/comfy-dvd.git ComfyUI-DVD-Depth
 ```
 
 2. Install dependencies (use ComfyUI's Python if using portable):
